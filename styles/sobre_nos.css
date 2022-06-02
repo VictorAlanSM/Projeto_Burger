@@ -1,0 +1,17 @@
+    main{
+    display: flex;
+    align-items: center;
+    height: 70vh;
+}
+
+.bk_video{
+    margin: auto;
+    width: 1050px;   
+}
+
+@media (max-width:400px){
+    .bk_video{
+        width: 90%;
+    }
+}
+
